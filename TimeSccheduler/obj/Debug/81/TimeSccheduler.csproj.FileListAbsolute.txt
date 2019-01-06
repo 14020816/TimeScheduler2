@@ -36,6 +36,7 @@ D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\res\mipm
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\res\layout\mylayout.xml
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\R.cs.flag
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\R.txt
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\uploadflags.txt
@@ -58,3 +59,13 @@ D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\linksrc\
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
 D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\mscorlib.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\System.Core.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\System.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\System.Xml.pdb
+D:\WORKSPACE\Android\Xamarin\TimeSccheduler\TimeSccheduler\obj\Debug\81\android\assets\TimeSccheduler.pdb
